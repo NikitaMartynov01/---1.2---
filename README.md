@@ -6,9 +6,14 @@
 <h2 align="center">📸 Итоговые фотографии изделия</h2> <div align="center"> <table> <tr> <td align="center"> <img src="https://github.com/user-attachments/assets/b40cc04f-c89b-4561-a296-a8c1cab227ef" width="420" style="border: 2px solid #d0d0d0; border-radius: 10px;" /> <br><br><b>Фото 1. Елка на сборочном листе</b> </td> <td align="center"> <img src="https://github.com/user-attachments/assets/68ce5056-252c-458c-80c5-72b71813fbd5" width="420" style="border: 2px solid #d0d0d0; border-radius: 10px;" /> <br><br><b>Фото 2. Сборка елки</b> </td> </tr> </table> </div>
 <h2 align="center">
 
-## 📂 DXF и CDR файлы
+<p align="center">
+  <a href="НГ%20игрушка.dxf">
+    <img src="https://img.shields.io/badge/Download-CDR-green?style=for-the-badge">
+  </a>
+</p>
 
-- [Скачать DXF](НГ игрушка.dxf)
-- [Скачать CDR](НГ_игрушка.cdr)
-
-
+<p align="center">
+  <a href="НГ%20игрушка.cdr">
+    <img src="https://img.shields.io/badge/Download-CDR-green?style=for-the-badge">
+  </a>
+</p>
