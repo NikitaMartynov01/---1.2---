@@ -8,12 +8,7 @@
 
 <p align="center">
   <a href="files/НГ игрушка.cdr">
-    <img src="https://img.shields.io/badge/Download-DXF-green?style=for-the-badge">
-  </a>
-</p>
-
-<p align="center">
-  <a href="files/НГ игрушка.dxf">
     <img src="https://img.shields.io/badge/Download-CDR-green?style=for-the-badge">
   </a>
 </p>
+
