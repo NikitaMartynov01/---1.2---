@@ -7,13 +7,13 @@
 <h2 align="center">
 
 <p align="center">
-  <a href="file/НГ%20игрушка.dxf">
+  <a href="files/НГ игрушка.cdr">
     <img src="https://img.shields.io/badge/Download-DXF-green?style=for-the-badge">
   </a>
 </p>
 
 <p align="center">
-  <a href="НГ%20игрушка.cdr">
+  <a href="files/НГ игрушка.dxf">
     <img src="https://img.shields.io/badge/Download-CDR-green?style=for-the-badge">
   </a>
 </p>
